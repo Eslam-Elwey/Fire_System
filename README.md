@@ -4,6 +4,8 @@ There Are 3 States
 2. Heat Mode (When Temperature is Higher than 50 c)
 3. Fire State (when Smoke Percentage is over 50 %)
 
+In Fine Mode : You Can Set New Password For System And save it in internal EEPROM
+
 In Heat Mode : Indication Yellow Led
 In Fire Mode : Indication Red Led / Motor (Water Pump) / Buzzer Are on
 
