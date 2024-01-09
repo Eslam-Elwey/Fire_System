@@ -13,5 +13,5 @@ Using MCU ATMEGA32
 (DC_Motor / Leds / Keypad / LCD / LM35 / MPX41115 / Buzzer / Relay)
 Interface With 
 HAL : KEYPAD / LCD / Sensors
-MCAL : DIO / ADC 
+MCAL : DIO / ADC / EEPROM
 APP: Fire System
