@@ -4,6 +4,8 @@ There Are 3 States
 2. Heat Mode (When Temperature is Higher than 50 c)
 3. Fire State (when Smoke Percentage is over 50 %)
 
+In Fine Mode : You Can Set New Password For System And save it in internal EEPROM
+
 In Heat Mode : Indication Yellow Led
 In Fire Mode : Indication Red Led / Motor (Water Pump) / Buzzer Are on
 
@@ -13,5 +15,5 @@ Using MCU ATMEGA32
 (DC_Motor / Leds / Keypad / LCD / LM35 / MPX41115 / Buzzer / Relay)
 Interface With 
 HAL : KEYPAD / LCD / Sensors
-MCAL : DIO / ADC 
+MCAL : DIO / ADC / EEPROM
 APP: Fire System
